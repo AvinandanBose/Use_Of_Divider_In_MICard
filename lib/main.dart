@@ -84,7 +84,8 @@ class _My_App_State extends State<_My_App> {
             ),
             Card(
               margin: const EdgeInsets.symmetric(
-                vertical: 10.0,
+                vertical
+                    : 10.0,
                 horizontal: 25.0,
               ),
               child: ListTile(
