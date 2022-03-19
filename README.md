@@ -1,6 +1,6 @@
-# mi_card_divider
+# Use_Of_Divider_In_IDCard
 
-A new Flutter project.
+Use of Divider in Flutter. Use of Divider in Flutter (in our developed ID Card App)
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![Screenshot (318)](https://user-images.githubusercontent.com/38869235/159110677-87030354-4b1d-406f-acd4-a4e9be49600a.png)
